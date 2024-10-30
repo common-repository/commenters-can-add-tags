@@ -1,0 +1,28 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: commenters can add tags 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-23 16:44+0200\n"
+"PO-Revision-Date: 2015-06-23 16:51+0100\n"
+"Last-Translator: Raúl <raulanton@gmail.com>\n"
+"Language-Team: Raúl Antón Cuadrado\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: commenters-can-add-tags.php:181
+msgid ""
+"What do you want to use as tag prefix? (It is # par default, like in Twitter "
+"or Instagram) : "
+msgstr ""
+"What do you want to use as tag prefix? (It is # par default, like in Twitter "
+"or Instagram) : "
+
+#: commenters-can-add-tags.php:188
+msgid "Save changes"
+msgstr "Save changes"
